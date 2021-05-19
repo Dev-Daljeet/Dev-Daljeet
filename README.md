@@ -1,7 +1,10 @@
 ![Introduction](./intro.gif)
 
+![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Web-devdaljeet.com-informational?style=flat&logo=website&logoColor=white&color=4AB197)
+
 ## 👋 Hi! 
-I’m Daljeet Singh (@Dev-Daljeet), a 18 years old software developer and 2nd Year CS student at Sheridan College from Canada. I’m interested in Web development and Android Application development. Currently, I'm learning Kotlin and looking for new fall 2021 co-op/internships opportunities. 
+I’m Daljeet Singh (@Dev-Daljeet), a 18 years old software developer and 2nd Year CS student at Sheridan College from Canada. I’m interested in Web development and Android Application development. Currently, I'm learning Kotlin and looking for new fall 2021 co-op/internship opportunities. 
 
 ## ⚙️ Skills
 
