@@ -29,6 +29,7 @@ I’m Daljeet Singh (@Dev-Daljeet), a 18 years old software developer and 2nd Ye
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Bash_Shell-informational?style=flat&logo=bash&logoColor=white&color=4AB197)
@@ -50,6 +51,7 @@ I’m Daljeet Singh (@Dev-Daljeet), a 18 years old software developer and 2nd Ye
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DB-SQL_Server-informational?style=flat&logo=sqlserver&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PL/SQL-informational?style=flat&logo=plsql&logoColor=white&color=4AB197)
 
 ## 📫 Contact
 - Website: [www.devdaljeet.com](https://www.devdaljeet.com)
