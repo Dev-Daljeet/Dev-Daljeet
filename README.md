@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Web-devdaljeet.com-informational?style=flat&logo=website&logoColor=white&color=4AB197)](https://devdaljeet.com)
 
 ## 👋 Hi! 
-I’m Daljeet Singh (Dev-Daljeet), a software developer and 3rd Year CS student at Sheridan College from Canada. I’m interested in Web development and Android Application development. Currently, I'm learning Kotlin. 
+I’m Daljeet Singh (Dev-Daljeet), a software developer and 3rd Year CS student at Sheridan College from Canada. I’m interested in Web development, Mobile Application development, Blockchain and Cloud Computing.  
 
 ## 📫 Contact
 - Website: [www.devdaljeet.com](https://www.devdaljeet.com)
