@@ -9,7 +9,7 @@ I’m Daljeet Singh (Dev-Daljeet), a software developer and 3rd Year CS student 
 ## 📫 Contact
 - Website: [www.devdaljeet.com](https://www.devdaljeet.com)
 - LinkedIn: [@daljeetsingh](https://www.linkedin.com/in/daljeet-singh-/)
-- Personal Email: devdaljeetsingh@gmail.com
+- Business Email: daljeet@devdaljeet.com
 - Academic Email: sin10510@sheridancollege.ca
 
 
