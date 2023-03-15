@@ -7,6 +7,5 @@
 I’m Daljeet Singh (Dev-Daljeet), a software developer from Canada. I’m interested in Web development, Blockchain and Cloud Computing.  
 
 ## 📫 Contact
-- Website: [www.devdaljeet.com](https://www.devdaljeet.com)
 - LinkedIn: [@daljeetsingh](https://www.linkedin.com/in/daljeet-singh-/)
 - Business Email: daljeet@devdaljeet.com
